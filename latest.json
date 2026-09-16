@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "windows": "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/download/v2.1.0/JOWD-Setup-v2.1.0.exe",
-  "macos":   "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/download/v2.1.0/JOWD-v2.1.0.dmg",
+  "version": "2.1.2",
+  "windows": "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/download/v2.1.2/JOWD-Setup-v2.1.2.exe",
+  "macos":   "https://github.com/PhoenixLB/justonweb-downloader-releases/releases/download/v2.1.2/JOWD-v2.1.2.dmg",
   "sha256": {
-    "windows": "c78a3a2da31c2963abb0d81b816b98bfd0dc7b27afd087b62c30e32ba7df7e85",
-    "macos":   "c4fe96a1c9230b369435765bb83140ef2c274895fea92e7c77b7cc0397578c97"
+    "windows": "cdbe8e80ea7925ac5ef7d13d750aca643591c9b13b046e5d6b1d83e22b96fdb4",
+    "macos":   "bf7077592965700cca018aef4beb53f5e4f82f079393683ceda16675e604e0f6"
   }
 }
